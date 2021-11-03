@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 159,
+    "time": 280,
+    "timeDay": 208,
     "timeWeek": 255,
     "timeMonth": 266,
-    "timeYear": 281,
+    "timeYear": 280,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Phishing - ankama-rol.live",
+    "url": "https://ankama-rol.live/",
+    "icon": "https://favicons.githubusercontent.com/ankama-rol.live",
+    "slug": "phishing-ankama-rol-live",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 549,
+    "timeDay": 549,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {}
   }
 ]
