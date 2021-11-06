@@ -22,7 +22,7 @@
     "url": "https://ankama-rol.live/",
     "icon": "https://favicons.githubusercontent.com/ankama-rol.live",
     "slug": "phishing-ankama-rol-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 414,
     "timeMonth": 414,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-06": 0
+    }
   }
 ]
