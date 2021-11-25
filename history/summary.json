@@ -4,17 +4,19 @@
     "url": "https://www.dofhelp.fr",
     "icon": "https://www.dofhelp.fr/styles/default/xenforo/favicon.ico",
     "slug": "dofhelp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 288,
-    "timeWeek": 294,
-    "timeMonth": 303,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 295,
+    "timeDay": 349,
+    "timeWeek": 308,
+    "timeMonth": 306,
+    "timeYear": 295,
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   }
 ]
