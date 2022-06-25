@@ -10,14 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 857,
-    "timeDay": 1115,
-    "timeWeek": 1364,
-    "timeMonth": 1534,
-    "timeYear": 857,
+    "time": 858,
+    "timeDay": 1068,
+    "timeWeek": 1321,
+    "timeMonth": 1518,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2022-02-09": 633,
       "2022-02-08": 175
     }
+  },
+  {
+    "name": "MildURL",
+    "url": "http://mildurl.com",
+    "icon": "https://favicons.githubusercontent.com/mildurl.com",
+    "slug": "mild-url",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
+    "dailyMinutesDown": {}
   }
 ]
